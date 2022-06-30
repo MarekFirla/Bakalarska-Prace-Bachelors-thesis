@@ -1,0 +1,2 @@
+# Bakalarska-Prace
+BAKALÁŘSKÁ PRÁCE - KONSTRUKCE LINEÁRNÍCH HODIN
