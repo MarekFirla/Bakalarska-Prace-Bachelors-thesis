@@ -1,6 +1,7 @@
 # Bakalarska-Prace
 BAKALÁŘSKÁ PRÁCE - KONSTRUKCE LINEÁRNÍCH HODIN
 
+![alt text](https://github.com/MarekFirla/Bakalarska-Prace/Renderované snímky/lineární hodiny.png?raw=true)
 
 Zadání bakalářské práce  
 
