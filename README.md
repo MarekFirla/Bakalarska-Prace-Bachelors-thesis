@@ -1,4 +1,4 @@
-# Bakalarska-Prace
+# Bakalářská práce
 BAKALÁŘSKÁ PRÁCE - KONSTRUKCE LINEÁRNÍCH HODIN
 
 ![alt text](https://github.com/MarekFirla/Bakalarska-Prace/blob/main/Renderovan%C3%A9%20sn%C3%ADmky/line%C3%A1rn%C3%AD%20hodiny.png?raw=true)
